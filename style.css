@@ -172,6 +172,7 @@ h4 { margin: 0 0 8px; font-size: 16px; }
 
 /* Call to action */
 .cta {
+  margin-top: 24px;
   display: flex; align-items: center; gap: 24px;
   padding: 20px 24px; border-radius: 12px;
   background: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
